@@ -13,7 +13,7 @@
 	"displayOptions": {
 		"exportNotes": true,
 		"exportExpressionsOfConcern": false,
-		"retraction": false
+		"exportRetractions": false
 	},
 	"inRepository": true,
 	"translatorType": 3,
